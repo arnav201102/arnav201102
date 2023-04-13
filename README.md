@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/arnav__sri" target="blank"><img src="https://img.shields.io/twitter/follow/arnav__sri?logo=twitter&style=for-the-badge" alt="arnav__sri" /></a> </p>
 
-- 🔭 I’m currently working on [Kaamwaalibhai-A House Help Service](https://github.com/arnav201102/kaamwaali-bhai)
+- 🔭 I’m currently working on [FPay As You Go](https://github.com/arnav201102/FPay-As-You-Go)
 
 - 📫 How to reach me **arnav.sri2011@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AQ6Eecz3aJax6-mPq2uxOrYP02CrXudb/view?usp=sharing](https://drive.google.com/file/d/1AQ6Eecz3aJax6-mPq2uxOrYP02CrXudb/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rRne1MNbhK9rfL4OyVXTBvnq7hr7pix8/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am happy!!**
 
